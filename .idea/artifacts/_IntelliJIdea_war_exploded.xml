@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name=".IntelliJIdea:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_IntelliJIdea_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name=".IntelliJIdea" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.testng:testng:7.1.0" />
+          <element id="library" level="project" name="Maven: com.beust:jcommander:1.72" />
+          <element id="library" level="project" name="Maven: com.google.inject:guice:no_aop:4.1.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:19.0" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.21" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.18" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-web:2.1" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet=".IntelliJIdea/web/Web" />
+      <element id="javaee-facet-resources" facet=".IntelliJIdea/web/Web2" />
+    </root>
+  </artifact>
+</component>
